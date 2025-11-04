@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm [Muhmmad Mishraz Ali Khan]!
 
 Welcome to my GitHub profile!  
 I'm a **Web Developer** passionate about building clean, user-friendly, and responsive web applications.
