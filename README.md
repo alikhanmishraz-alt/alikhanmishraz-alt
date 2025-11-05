@@ -1,62 +1,68 @@
-**## Hi there 👋
+<!-- Modern GitHub Profile README -->
 
-<!--
-**alikhanmishraz-alt/alikhanmishraz-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 👋 Hi, I'm [Muhmmad Mishraz Ali Khan]!
-
-Welcome to my GitHub profile!  
-I'm a **Web Developer** passionate about building clean, user-friendly, and responsive web applications.
+<h1 align="center">👋 Hey, I'm <span style="color:#00bfff;">Your Name</span></h1>
+<p align="center">
+  🚀 Web Developer | 💡 Designer | 🌍 Open Source Enthusiast
+</p>
 
 ---
 
-## 🧠 About Me
-- 💼 I’m currently working on: **My Portfolio Website**
-- 🌱 I’m learning: **React.js, PHP, and MySQL**
-- 💬 Ask me about: **HTML, CSS, JavaScript, and Web Design**
-- 🎯 Goal: To become a **Full-Stack Developer**
-- ⚡ Fun fact: I love solving real-world problems with code.
+### 🧠 About Me  
+I’m a **passionate web developer** focused on creating clean, modern, and high-performance websites.  
+I enjoy working with new technologies, experimenting with creative UI, and building projects that make an impact.  
+
+💼 Currently working on: **My Portfolio Website**  
+🌱 Learning: **React.js & Tailwind CSS**  
+🎯 Goal: **Become a Full-Stack Developer**  
+⚡ Fun fact: I drink coffee ☕ while debugging code 😅  
 
 ---
 
-## 🛠️ Tech Stack
-**Frontend:** HTML | CSS | JavaScript | Bootstrap | React  
-**Backend:** PHP | Node.js (learning)  
-**Database:** MySQL | Firebase  
-**Tools:** VS Code | Git | GitHub | Figma
+### 🛠️ Skills & Tools  
+
+#### 👨‍💻 Languages
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+#### 🧰 Frameworks & Libraries
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+#### ⚙️ Tools & Platforms
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 ---
 
-## 💻 My Portfolio
-🚀 **Check it out:** [View My Portfolio](https://your-portfolio-link-here.com)
+### 💼 Featured Projects  
+| Project | Description | Live Demo | Code |
+|----------|--------------|------------|------|
+| 🌐 **Portfolio Website** | A modern, responsive portfolio showcasing my web dev skills. | [Live Demo](#) | [GitHub](#) |
+| 🎯 **Landing Page** | A creative product landing page built with HTML, CSS & JS. | [Live Demo](#) | [GitHub](#) |
+| ⚡ **Dynamic Web App** | Interactive app with real-time updates using JS. | [Live Demo](#) | [GitHub](#) |
 
 ---
 
-## 📫 Connect With Me
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 💼 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
-- 🐦 Twitter: [twitter.com/yourusername](https://twitter.com/yourusername)
-- 🌐 Website: [your-portfolio-link-here.com](https://your-portfolio-link-here.com)
+### 📫 Connect With Me  
+<p align="center">
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
 ---
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" height="165">
+</p>
 
 ---
 
-⭐ **Thanks for visiting my profile!**  
-Feel free to explore my repositories and drop a ⭐ if you like my work.
-**
+⭐ **Thanks for visiting my GitHub profile!**  
+💬 Feel free to reach out or check my repositories below.
