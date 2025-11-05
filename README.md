@@ -1,6 +1,6 @@
 <!-- Modern GitHub Profile README -->
 
-<h1 align="center">👋 Hey, I'm <span style="color:#00bfff;">Your Name</span></h1>
+<h1 align="center">👋 Hey, I'm <span style="color:#00bfff;">Muhmmad Mishraz Ali Khan</span></h1>
 <p align="center">
   🚀 Web Developer | 💡 Designer | 🌍 Open Source Enthusiast
 </p>
